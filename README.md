@@ -4,6 +4,6 @@ we're working on:
 BladeHub
 
 what programming languages we use:
-- luau![alt](./)
+- luau![alt](./luau.svg)
 - lua![alt](./lua.svg)
 - React - TS![alt](./react-typescript.svg)

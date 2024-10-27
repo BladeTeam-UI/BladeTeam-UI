@@ -1,7 +1,8 @@
 <h1>C:/Users/KajazBlade/Teams/BladeTeam</h1>
 
 we're working on:
-BladeHub
+- BladeHub,
+- And Other Things...
 
 what programming languages we use:
 - luau![alt](./luau.svg)
